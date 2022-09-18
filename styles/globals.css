@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: panchang1;
+  src: url('../public/assets/Panchang-Extralight.otf');
+}
+@font-face {
+  font-family: panchang2;
+  src: url('../public/assets/Panchang-Light.otf');
+}
+@font-face {
+  font-family: panchang3;
+  src: url('../public/assets/Panchang-Medium.otf');
+}
+@font-face {
+  font-family: Clash Display;
+  src: url('../public/assets/ClashDisplay-Bold.otf');
+}

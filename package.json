@@ -15,7 +15,10 @@
     "locomotive-scroll": "4.1.4",
     "node-sass": "7.0.3",
     "gsap": "3.11.1",
-    "framer-motion": "7.3.5"
+    "framer-motion": "7.3.5",
+    "react-icons": "4.4.0",
+    "react-router-dom": "6.4.0",
+    "react-simple-typewriter": "4.0.2"
   },
   "devDependencies": {
     "@types/node": "18.7.18",

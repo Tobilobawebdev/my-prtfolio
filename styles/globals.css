@@ -18,3 +18,7 @@
   font-family: Clash Display;
   src: url('../public/assets/ClashDisplay-Bold.otf');
 }
+
+body {
+  @apply bg-[#000000] text-[#fafafa];
+}

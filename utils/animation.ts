@@ -7,7 +7,7 @@ type Props = {
     node3: unknown
 }
 //opem menu
-export const staggerReveal = ({node1, node2}: Props) => {
+export const staggerReveal = ({ node1, node2 }: Props) => {
     gsap.from([node1, node2], {
         duration: 0.8,
         height: 0,
@@ -21,7 +21,7 @@ export const staggerReveal = ({node1, node2}: Props) => {
 };
 
 //close menu
-export const staggerRevealClose = ({node1, node2}: Props) => {
+export const staggerRevealClose = ({ node1, node2 }: Props) => {
     gsap.from([node1, node2], {
         duration: 0.8,
         height: 0,
